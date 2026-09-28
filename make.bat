@@ -1,0 +1,1 @@
+gcc minK.c -o minK.exe
